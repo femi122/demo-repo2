@@ -12,7 +12,7 @@ def countdown(seconds):
     print("Time's up!")
 
 # Set the countdown time in seconds
-countdown_time = 10
+countdown_time = 100
 
 # Start the countdown
 countdown(countdown_time)
